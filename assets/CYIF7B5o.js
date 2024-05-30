@@ -1,1 +1,0 @@
-import{_ as t,V as o,o as n,c,b as s}from"./BXJ1dyII.js";const _={};function r(a,i){const e=o("Vue3Lottie");return n(),c("div",null,[s(e,{height:"350px",animationLink:"https://lottie.host/fb94b96f-1931-4535-b202-b1e5f2f31e60/1RHPTC5KdD.json",size:"250"})])}const p=t(_,[["render",r]]);export{p as _};
