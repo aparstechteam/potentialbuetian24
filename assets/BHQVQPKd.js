@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e}from"./BjQHex1I.js";const c={},n={class:"text-center"},a=e("h2",{class:"text-2xl font-semibold"}," Exam has been ended ",-1),_=e("p",{class:"text-lg"}," Result will be publised soon. ",-1),d=[a,_];function l(r,i){return t(),o("div",n,d)}const f=s(c,[["render",l]]);export{f as default};
